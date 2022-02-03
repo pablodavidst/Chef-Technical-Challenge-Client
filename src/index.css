@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.show-container{
+  margin-top:1.5rem;
+  display: flex;
+  flex-flow: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40rem;
+}
+
+.show-card{
+  padding:20px;
+  border:solid 1px;
+  width: 150px;
+}
+
+.w-100{
+  width: 100px;
+}
+
+.channel{
+  padding:1rem;
+  color:white;
+  background-color: darkcyan;
+}
+
+.main-title{
+  background-color: #3178c6;
+  color:white
+}
+
+.mr-1{
+  margin-right:1rem
+}
+
+.ml-1{
+  margin-left:1rem;
+}
